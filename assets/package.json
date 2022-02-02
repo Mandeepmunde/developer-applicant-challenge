@@ -1,0 +1,17 @@
+{
+  "name": "developer-applicant-challenge",
+  "version": "1.0.0",
+  "description": "Awesome Motive - Developer Applicant Challenge",
+  "main": "index.js",
+  "scripts": {
+    "eslint:fix": "eslint --fix"
+  },
+  "author": "Mandeep Singh",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/eslint-plugin": "^8.0.2",
+    "eslint": "^7.21.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-jsdoc": "^30.7.13"
+  }
+}
